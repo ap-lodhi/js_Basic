@@ -11,4 +11,12 @@
 console.log(name)  // undefined
 var name ='ANIL'
 
+printName('anil')
+var  printName
+function printName(name){
+    console.log('helo',name)  // heloo anil will print
+}
 
+printName =function(name){
+    console.log('hey',name)
+}
