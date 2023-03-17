@@ -13,3 +13,6 @@ console.log(arr)
 console.log(name)
 name ='masai'
 var  name
+
+
+console.log(name)
