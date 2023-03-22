@@ -16,3 +16,4 @@ var  name
 
 
 console.log(name)
+console.log(anil)
