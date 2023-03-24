@@ -32,3 +32,6 @@ var person ={
 }
 
 person.print()
+
+
+

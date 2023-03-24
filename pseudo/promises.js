@@ -26,6 +26,12 @@
 // console.log(length)
 
 
-var arr =['a','b','c','d','e']
-const func = ([f,...r])=>r.reduce((a,c)=>a+c)+f
-console.log(func(arr)) 
+// var arr =['a','b','c','d','e']
+// const func = ([f,...r])=>r.reduce((a,c)=>a+c)+f
+// console.log(func(arr)) 
+
+
+let fname ="masai"
+let lname = "school"
+const person= {fname,lname}
+console.log(person)
